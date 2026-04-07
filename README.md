@@ -59,7 +59,7 @@ Built an end-to-end pipeline to generate novel character art using a **DCGAN fro
 
 ---
 
-###  [Fabric Defect Detection — Edge-Optimized](https://github.com/sp2772/fabric-defect-detection)
+###  [Fabric Defect Detection - Edge-Optimized](https://github.com/sp2772/fabric-defect-detection)
 
 Team implementation of **FN-Net**, a lightweight CNN for fabric defect detection on edge devices. Applied adaptive thresholding, **Quantization Aware Training**, and post-quantization to achieve a better performance-to-size ratio than baseline models with significantly lower memory footprint.
 
