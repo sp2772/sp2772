@@ -100,7 +100,7 @@ As a team of 3, deployed a Full-stack Django platform for SASTRA's AI/ML club, f
 ## Experience Highlights
 
 ** EY ** *(Ongoing)*
-Designing a cost-aware agentic runtime with multi-model routing, KV caching strategy, LLM-as-judge evaluation, and real-time cost analytics for enterprise-scale GenAI deployment.
+Working as an AI Analyst and AI engineer for Agentic Engineering Projects
 
 ** Hiroshima University ** *(Jan–Feb 2025)*
 Trans-Disciplinary Immersion Program. Visited research labs including RISE, JFE Steel, and Micron; attended seminars on AI, semiconductor technologies, and advanced manufacturing.
