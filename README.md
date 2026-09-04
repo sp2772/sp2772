@@ -14,9 +14,9 @@
 
 ## About Me
 
-I'm a final-year B.Tech Computer Science student at **SASTRA Deemed University**, interested in the intersection of **multimodal AI**, **agentic systems**, and **efficient model architectures**. I like building things that are both research-motivated and production-ready, from CNN-BiLSTM medical diagnosis pipelines to cost-aware multi-agent runtimes running on GCP.
+I'm interested in the intersection of **multimodal AI**, **agentic systems**, and **efficient model architectures**. I like building things that are both research-motivated and production-ready, from CNN-BiLSTM medical diagnosis pipelines to cost-aware multi-agent runtimes running on cloud.
 
-Currently working on **LLM cost-optimization and agentic runtime architecture** for **Ernst & Young's** global AI consulting transformation team. 
+Currently working on **LLMs and Agentic AI** for **Ernst & Young's** GDS AI consulting team. 
 
 
 ---
