@@ -89,11 +89,12 @@ As a team of 3, deployed a Full-stack Django platform for SASTRA's AI/ML club, f
 |---|---|
 | **Languages** | Python · C++ · Java · C · MySQL |
 | **Deep Learning** | TensorFlow · PyTorch · Keras · Scikit-learn · Numpy/Pandas · Matplotlib |
-| **LLMs & Agents** | LangChain · OpenAI Agents SDK · Crew AI · LangGraph · AutoGen |
-| **Agentic Infra** | GCP (Compute Engine, BigQuery, Cloud Trace) · OpenTelemetry · Vertex AI |
+| **LLMs & Agents** | LangChain · OpenAI Agents SDK · Crew AI · LangGraph · AutoGen · Skills & Tool Authoring  · MCP|
+| **Agentic Infra** | GCP (Compute Engine, BigQuery, Cloud Trace) · OpenTelemetry · Vertex AI  · Azure AI Foundry|
 | **Computer Vision** | CNNs · GANs · YOLOvx · CLIP · UNet |
 | **Sequence Models** | LSTMs · GRUs · BiLSTMs · Attention · Transformers · Encoder/Decoder models |
 | **Web & Deploy** | Django · Hugging Face Spaces · Cloud VMs · Jupyter |
+| **Neural Computation** | Neuroscience · LIF & HH model Simulations · Matlab |
 
 ---
 
@@ -112,8 +113,8 @@ MRI spine image classification using CNNs for automated detection of lumbar spin
 
 ## Certifications & Recognition
 
--  **N5 JLPT** (currently studying for N3)
--  **Elite Silver** - Deep Learning, IIT Ropar
+-  **N4 JLPT** (currently studying for N3)
+-  **Elite Silver** - Large Language Models, Deep Learning NPTEL
 -  **AI/ML in Geodata Analysis** - ISRO-IIRS Course
 -  **Published (In Review)** - Springer LNEE, NIT Silchar Conference
 
